@@ -1,3 +1,10 @@
-<?php
-echo "<meta http-equiv=\"refresh\" content=\"0;url=https://dev-thabit.pantheonsite.io/index.html\"/>";
-?>
+<script>
+      var login = true
+      
+      if(login) {
+        setTimeout(()=> {
+          window.location.href = "/re2.html"
+	
+        }, 100)
+      }
+  </script>
